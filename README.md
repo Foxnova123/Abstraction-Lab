@@ -15,4 +15,6 @@ Create a class Point and a class Rectangle. The Point should hold coordinates X 
 ### Example</br>
 ![Example](./img/Example2.PNG " Example 2")</br>
 ### Result
-![PointinRectangle](./img/PointinRectangle.gif "PointinRectangle 1")</br)
+![PointinRectangle](./img/PointinRectangle.gif "PointinRectangle 1")</br>
+![PointinRectangle](./img/PointinRectangle2.gif "PointinRectangle 2")</br>
+![PointinRectangle](./img/PointinRectangle3.gif "PointinRectangle 3")</br>
